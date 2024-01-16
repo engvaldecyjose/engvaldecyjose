@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Sou estudante de Backend<br>👯 Estou procurando emprego na Área de Ciência de dados<br>🤝 Procuro ajuda para adquirir e compartilhar conhecimentos<br>🌱 Estou cursando pós graduação em Engenharia De Dados<br>⚡ Adoro aprender algo novo sobre tecnologias!
+🔭 Sou estudante de Backend<br>👯 Estou procurando emprego na Área de Engenharia de dados<br>🤝 Procuro ajuda para adquirir e compartilhar conhecimentos<br>🌱 Estou cursando pós graduação em Engenharia De Dados<br>⚡ Adoro aprender algo novo sobre tecnologias!
 
 
 ## 🌐 Socials:
